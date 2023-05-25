@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Braah+One&family=Instrument+Serif:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Braah+One&family=Bruno+Ace&family=Instrument+Serif:ital@1&family=Vina+Sans&display=swap');
+
+.principal{
+   
+  margin: 0 auto;
+   background-color: blue;
+   color: white;
+   padding: 35px;
+   text-align: center;
+   width: 350px;
+   border-radius: 15px;
+
+}
+
+.mi-cuenta{
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+ height: 100px;
+ width: 100%;
+   
+}
+.movimientos1{
+    
+    background-color: brown;
+    border-radius: 50px;
+ height: 100px;
+ width: 100%;
+}
+.movimientos2{
+    background-color: rgb(57, 238, 2);
+    border-radius: 50px;
+ height: 100px;
+ width: 100%;
+}
+.movimientos3{
+    background-color: brown;
+    border-radius: 50px;
+ height: 100px;
+ width: 100%;
+}
+.movimientos4{
+    background-color: rgb(0, 255, 34);
+    border-radius: 50px;
+ height: 100px;
+ width: 100%;
+}
+.movimientos5{
+    background-color: brown;
+    border-radius: 50px;
+ height: 100px;
+ width: 100%;
+}
